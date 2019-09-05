@@ -1,0 +1,15 @@
+X:\projekty C#\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+X:\projekty C#\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+X:\projekty C#\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojAssemblyReference.cache
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+X:\projekty C#\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
